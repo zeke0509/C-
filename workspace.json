@@ -1,0 +1,304 @@
+{
+  "main": {
+    "id": "45890da80936e601",
+    "type": "split",
+    "children": [
+      {
+        "id": "abd3e407fb51d8b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f77164e99d08a16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++八股.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C++八股"
+            }
+          },
+          {
+            "id": "2f5da368be3b3e2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "草纸.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "草纸"
+            }
+          },
+          {
+            "id": "aff7b98fa72dbf03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "自己总结.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "自己总结"
+            }
+          },
+          {
+            "id": "71452d494d8524b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026刷题心得/栈和队列.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "栈和队列"
+            }
+          },
+          {
+            "id": "1c74cf1bdc58fa60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026刷题心得/数学计算.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数学计算"
+            }
+          },
+          {
+            "id": "7392ac1047d1efa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026刷题心得/查找算法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "查找算法"
+            }
+          },
+          {
+            "id": "2f5212e89bbdf1ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/第六章 二叉树part01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第六章 二叉树part01"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b3183df56adc20d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b09bb255dca02944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b791879e6654ca92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d488db91c5609d46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6686d7ce78c61c89",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "19b1468159e3c321",
+    "type": "split",
+    "children": [
+      {
+        "id": "42c898cd42948d69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15baa46d2e2a654b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "自己总结.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "自己总结 的反向链接列表"
+            }
+          },
+          {
+            "id": "48aadd6c292678b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前言.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "前言 的出链列表"
+            }
+          },
+          {
+            "id": "de0b88186bdd9135",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "25ee506e0bf3d692",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LeetCode/第六章 二叉树part01.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "第六章 二叉树part01 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2f5212e89bbdf1ae",
+  "lastOpenFiles": [
+    "自己总结.md",
+    "LeetCode/第六章 二叉树part01.md",
+    "C++八股.md",
+    "草纸.md",
+    "2026刷题心得/栈和队列.md",
+    "LeetCode/第五章 栈与队列part02.md",
+    "2026刷题心得/查找算法.md",
+    "LeetCode/第五章 栈与队列 总结.md",
+    "LeetCode/第四章 字符串part02.md",
+    "LeetCode/第五章 栈与队列part01.md",
+    "2026刷题心得/数学计算.md",
+    "2026刷题心得/字符串.md",
+    "LeetCode/第四章 字符串part01.md",
+    "LeetCode/第四章 字符串 总结.md",
+    "未命名",
+    "LeetCode/第三章 哈希表part02.md",
+    "LeetCode/第三章 哈希表part01.md",
+    "LeetCode/第三章 哈希表 总结.md",
+    "2026刷题心得/链表.md",
+    "LeetCode/第二章 链表part02.md",
+    "KamaCoder.md",
+    "LeetCode/第二章 链表part01.md",
+    "LeetCode/第一章  数组part02.md",
+    "笔试.md",
+    "2026刷题心得/双指针题目.md",
+    "未命名.base",
+    "未命名 1.base",
+    "计算机网络 八股.md",
+    "LeetCode/第一章  数组part01.md",
+    "2026刷题心得",
+    "Picture/Pasted image 20250903084503.png",
+    "Picture/Pasted image 20250702140135.png",
+    "Picture/Pasted image 20250901221622.png",
+    "Picture/13-2332060-王志博-答辩PPT.pptx",
+    "Picture/Pasted image 20250820204320.png",
+    "Picture/Pasted image 20250814021837.png",
+    "Picture/Pasted image 20250812172321.png",
+    "Picture/Pasted image 20250811161523.png",
+    "Picture/Pasted image 20250811161447.png",
+    "Picture/Pasted image 20250811155908.png",
+    "Picture/Pasted image 20250811155822.png",
+    "LeetCode",
+    "Picture",
+    "代码随想录算法篇"
+  ]
+}
